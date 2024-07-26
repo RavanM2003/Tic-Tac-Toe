@@ -11,8 +11,6 @@ A simple Tic Tac Toe game created using HTML, CSS, and JavaScript. Enjoy the cla
 ## Clone the repository:
     git clone https://github.com/RavanM2003/Tic-Tac-Toe.git
 
-## Navigate to the project directory:
-    cd tic-tac-toe
 ## Usage
 - Open the index.html file in any web browser.
 - Click on any cell to make your move.
