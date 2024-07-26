@@ -5,7 +5,8 @@ A simple Tic Tac Toe game created using HTML, CSS, and JavaScript. Enjoy the cla
 ## Features
 - Responsive design
 - Intuitive UI
-- Installation
+
+# Installation
 
 ## Clone the repository:
     git clone https://github.com/RavanM2003/Tic-Tac-Toe.git
